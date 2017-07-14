@@ -1,7 +1,7 @@
 # BootParse App
 
-Please see the [issues](https://github.com.bt.BootParse/com-bt-bootparse/issues) section
-to report any bugs or feature requests and to see the list of known issues.
+Project to try out generated components.  
+Android Studio 2.2 does all of this now.
 
 Android Bootstrap includes a full working implementation of Fragments, Fragment Pager, ActionBar via AppCompat, Navigation Drawer, ViewPagerIndicator, Retrofit, GSON, Robotium for integration testing, API Consumption with an API on Parse.com and much more.
 
